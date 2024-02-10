@@ -15,18 +15,23 @@ This repository contains automated tests for the Magneto Lumea e-commerce platfo
 
 1. Clone the repository to your local machine:
 
+    ```bash
     git clone https://github.com/your-username/QA-Project.git
     cd QA-Project
-
+    ```
 
 2. Initialize the project with npm:
 
+    ```bash
     npm init
+    ```
 
 3. Install Playwright:
 
+    ```bash
     npm install @playwright/test
     npx playwright install
+    ```
 
 ## Running Tests
 
